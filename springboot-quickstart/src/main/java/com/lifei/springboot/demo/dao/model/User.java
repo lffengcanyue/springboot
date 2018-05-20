@@ -1,6 +1,6 @@
 package com.lifei.springboot.demo.dao.model;
 
-public class UserInfo {
+public class User {
     private String userId;
 
     private String userName;
